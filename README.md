@@ -1,4 +1,4 @@
 # hello-world-
 First repository 
 
-Vanderbilt undergraduate 
+Vanderbilt undergraduate student 
